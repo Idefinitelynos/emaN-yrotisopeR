@@ -1,0 +1,17 @@
+body {
+    background-color: #d93232;
+    color: #ff00dd;
+}
+.heading {
+    width: 60%;
+    font-size: 26px;
+}
+#camera {
+    width: 33%;
+    height: 35%;
+    border: 2.83px dotted #704fe8;
+}
+#anana {
+    font-size: 18px;
+    color: #4eedd3;
+}
